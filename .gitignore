@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the entire .idea directory
+.idea/
+
+# Ignore the Movie-Recommendations projects ipynb files
+Moive-Recommendations/.ipynb_checkpoints/
