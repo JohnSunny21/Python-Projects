@@ -10,4 +10,4 @@
 .idea/
 
 # Ignore the Movie-Recommendations projects ipynb files
-Moive-Recommendations/.ipynb_checkpoints/
+Movie-Recommendations/.ipynb_checkpoints/
