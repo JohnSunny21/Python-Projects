@@ -11,3 +11,10 @@
 
 # Ignore the Movie-Recommendations projects ipynb files
 Movie-Recommendations/.ipynb_checkpoints/
+
+
+# Ignore all .pkl files
+*.pkl
+
+# Ignore specific folders
+Movie-Recommendations/model/
